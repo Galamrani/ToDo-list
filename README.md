@@ -29,14 +29,14 @@ Once the server is running, you can access the application by visiting http://lo
 ## File Structure
 The project contains the following files:
 
--app.js: The main server file containing the Express.js application logic.
--public/css/styles.css: The CSS file for styling the web application.
--views/list.ejs: The EJS template file for rendering the HTML content.
+- app.js: The main server file containing the Express.js application logic.
+- public/css/styles.css: The CSS file for styling the web application.
+- views/list.ejs: The EJS template file for rendering the HTML content.
 
 ## Features
--Add new items to the to-do list.
--Mark items as completed by checking the checkboxes.
--Delete items from the to-do list by clicking the delete button
+- Add new items to the to-do list.
+- Mark items as completed by checking the checkboxes.
+- Delete items from the to-do list by clicking the delete button
 
 ## Deployment
 The application has been deployed using the Cyclic platform. To access the deployed website, use the provided deployment URL.

@@ -4,9 +4,6 @@ This is a simple ToDo-List web application built with Node.js and Express.js. It
 
 Visit ToDo-List: https://odd-blue-hare-veil.cyclic.app/
 
-[Visit ToDo-List](https://odd-blue-hare-veil.cyclic.app/)
-
-
 ## Prerequisites
 
 Before running the application, ensure that you have the following installed:
@@ -41,4 +38,4 @@ The project contains the following files:
 - Delete items from the to-do list by clicking the delete button
 
 ## Deployment
-The application has been deployed using the Cyclic platform. To access the deployed website, use: https://odd-blue-hare-veil.cyclic.app/
+The application has been deployed using the Cyclic platform. To access the deployed website, use the URL provided above.

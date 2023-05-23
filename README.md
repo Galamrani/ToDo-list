@@ -2,6 +2,8 @@
 
 This is a simple ToDo-List web application built with Node.js and Express.js. It allows users to add and delete items from their to-do list. The application has been deployed using the Cyclic platform.
 
+Visit ToDo-List: https://odd-blue-hare-veil.cyclic.app/
+
 [Visit ToDo-List](https://odd-blue-hare-veil.cyclic.app/)
 
 
@@ -39,5 +41,4 @@ The project contains the following files:
 - Delete items from the to-do list by clicking the delete button
 
 ## Deployment
-The application has been deployed using the Cyclic platform. To access the deployed website, use the provided deployment URL.
-
+The application has been deployed using the Cyclic platform. To access the deployed website, use: https://odd-blue-hare-veil.cyclic.app/

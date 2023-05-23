@@ -1,6 +1,5 @@
 html {
-  background-color: #98EECC;
-  background-image: -webkit-linear-gradient(65deg, #F1F6F9 50%, #98EECC 50%);
+  background-color: #146C94;
   min-height: 1000px;
   font-family: 'Arial', sans-serif;
 }
@@ -18,8 +17,9 @@ h1 {
   box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
 }
 
+
 #heading {
-  background-color: #1B9C85;
+  background-color: #19A7CE;
   text-align: center;
 }
 

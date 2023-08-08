@@ -1,6 +1,6 @@
 # ToDo-List Web Application
 
-This is a simple ToDo-List web application built with Node.js and Express.js. It allows users to add and delete items from their to-do list.
+This is a ToDo-List web application built with Node.js and Express.js. It allows users to add and delete items from their to-do list.
 
 Visit ToDo-List: https://odd-blue-hare-veil.cyclic.app/
 

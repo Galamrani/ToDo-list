@@ -2,6 +2,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
+const config = require("./config.js");
 const app = express();
 
 
@@ -11,7 +12,7 @@ app.use(express.static("public"));
 
 
 // Connect to the MongoDB database
-mongoose.connect('mongodb+srv://galamrani2:6N3UYcEeQsKYhhbI@cluster0.sdpxi0e.mongodb.net/todolistDB', {
+mongoose.connect(config.databaseURL, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });

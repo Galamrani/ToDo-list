@@ -1,5 +1,5 @@
 html {
-  background-color: #146C94;
+  background-color: #393E46;
   min-height: 1000px;
   font-family: 'Arial', sans-serif;
 }
@@ -19,7 +19,7 @@ h1 {
 
 
 #heading {
-  background-color: #19A7CE;
+  background-color: #222831;
   text-align: center;
 }
 
@@ -85,7 +85,7 @@ button {
   width: 50px;
   border-radius: 50%;
   border-color: transparent;
-  background-color: #A683E3;
+  background-color: #c2c1c5;
   color: #fff;
   font-size: 30px;
   padding-bottom: 6px;

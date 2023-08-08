@@ -2,7 +2,7 @@
 
 This is a ToDo-List web application built with Node.js and Express.js. It allows users to add and delete items from their to-do list.
 
-Visit ToDo-List: https://odd-blue-hare-veil.cyclic.app/
+Visit ToDo-List: https://polar-thicket-05240-6d4ccf3b0598.herokuapp.com/
 
 ## Prerequisites
 

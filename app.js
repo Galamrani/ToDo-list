@@ -81,7 +81,7 @@ async function insertItem(itemName) {
 
   try {
     const result = await newItem.save();
-    console.log(itemName + " saved in db");
+    console.log("Item saved in db");
   } catch (err) {
     console.error("Error saving document:", err);
   }

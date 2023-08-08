@@ -1,4 +1,4 @@
-# TodoList App - A Simple and Elegant Task Management Tool
+# TodoList App - Task Management Tool
 
 Welcome to my TodoList App, a sleek and functional task management tool designed to help stay organized and focused. Whether you are a busy professional, a student juggling assignments, or simply someone who wants to keep track of their daily tasks.
 

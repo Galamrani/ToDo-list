@@ -2,8 +2,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
-const config = require('./config');
-require('dotenv').config(); // Load environment variables from .env file
 const app = express();
 
 
@@ -13,7 +11,7 @@ app.use(express.static("public"));
 
 
 // Connect to the MongoDB database
-mongoose.connect(config.mongoURI, {
+mongoose.connect("mongodb+srv://galamrani2:6N3UYcEeQsKYhhbI@cluster0.sdpxi0e.mongodb.net/", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
@@ -102,3 +100,4 @@ async function removeItem(itemName) {
     console.error('Error deleting item:', err);
   }
 }
+

@@ -28,7 +28,7 @@ The TodoList App is a web-based application built using Node.js and the Express 
 
 ## How to Use
 
-1. Visit the [TodoList App](https://polar-thicket-05240-6d4ccf3b0598.herokuapp.com/) website.
+1. Visit the [TodoList App](https://odd-blue-hare-veil.cyclic.app) website.
 2. Start by entering your task in the input field and clicking the "Add" button.
 3. Your task will be added to the list with the current date.
 4. To mark a task as completed, click the checkbox next to it.
